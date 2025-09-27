@@ -82,4 +82,5 @@ MIT — do what you love, just keep the notice.
 ---
 
 ## 📸 Screenshots
-_Add some screenshots or a short gif here once your repo is live._
+<img width="1245" height="632" alt="image" src="https://github.com/user-attachments/assets/3aa7e9a4-40f4-4eb2-869d-be768aac008c" />
+
